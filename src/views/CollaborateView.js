@@ -18,16 +18,12 @@ const CollaborateView = () => {
         vecinos para actualizar datos.
       </p>
       <p>
-        <span className="highlight">Logística:</span> Coordinar compra y
-        transporte de donaciones.
-      </p>
-      <p>
         <span className="highlight">Transporte:</span> Ofrecer vehículo para
         transporte de donaciones.
       </p>
       <p>
-        <span className="highlight">Difusión:</span> Dar difusión de las
-        necesidades para fomentar flujo de donaciones.
+        <span className="highlight">Difusión y Comunicación:</span> Manejo de redes 
+    sociales para dar difusión a las necesidades y respuestas a consultas de varios tipos.
       </p>
       <p>
         <span className="highlight">Manos a la Olla:</span> Sumarte a cocinar en
@@ -48,12 +44,17 @@ const CollaborateView = () => {
         alimentos están haciendo falta.
       </p>
       <p>
-        Doná a través de la <b>cuenta BROU de AUDYN</b>:
+        Doná a través de la <b>cuenta BROU de la COORDINADORA POPULAR Y SOLIDARIA</b>:
       </p>
       <p>
-        <span className="highlight orange-text">001564567-00002</span>
+        <span className="highlight orange-text"> CA 001569964-00004 </span>
         <br />
-        <b>Asunto:</b> Ollas audyn1962@gmail.com
+         Enviar comprobante a <b>comision.acopio.cps@gmail.com</b> 
+         Referencia: donación 
+    
+         El dinero de la Coordinadora se utiliza para comprar alimentos 
+        y cubrir las necesidades de las ollas y merenderos de las redes 
+        que la integran.
       </p>
 
       <br />
