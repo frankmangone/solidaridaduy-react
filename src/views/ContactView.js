@@ -7,16 +7,15 @@ const ContactView = () => {
       <p>
         Envianos comentarios, ideas y sugerencias para seguir mejorando la
         plataforma. Si sos referente de una olla o querés generar una iniciativa
-        en tu barrio, ponete en contacto para sumarte a la coordinadora de redes
-        y ollas.
+        en tu barrio, ponete en contacto para sumarte a la Coordinadora Popular y Solidaria.
         <br />
         <br />
         También podés contactarnos directamente al mail{" "}
-        <span className="highlight">solidaridaduy@gmail.com</span>
+        <span className="highlight">uysolidaridad@gmail.com</span>
       </p>
       <form
         className="content-right"
-        action="mailto:solidaridaduy@gmail.com"
+        action="mailto:uysolidaridad@gmail.com"
         method="POST"
         encType="multipart/form-data"
       >
