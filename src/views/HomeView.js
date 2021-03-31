@@ -444,8 +444,7 @@ const Collaborate = () => {
               para transporte de donaciones.
             </p>
             <p>
-              <span className="highlight">Difusión:</span> Dar difusión de las
-              necesidades para fomentar flujo de donaciones.
+              <span className="highlight">Difusión y Comunicación:</span> Manejo de redes sociales para dar difusión a las necesidades y respuestas a consultas de varios tipos.
             </p>
             <p>
               <span className="highlight">Manos a la Olla:</span> Sumarte a

@@ -36,7 +36,7 @@ const AboutView = () => {
     
         <ul className="proyectos" align="center">
                   
-                      <img alt="Evolucion" src={evolucion} width="1000" height="550"/>
+                      <img class='img-big' alt="Evolucion" src={evolucion} width="1000" height="550"/>
                   
          </ul>
               <br />
@@ -73,7 +73,7 @@ const AboutView = () => {
           </p>
           <ul className="Proyectos" align="center">
 
-              <img alt="Redes" src={maparedes} width="1000" height="550" />
+              <img class='img-big' alt="Redes" src={maparedes} width="1000" height="550" />
 
           </ul>
 
