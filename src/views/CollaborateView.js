@@ -62,7 +62,7 @@ const CollaborateView = () => {
               Podés arrimarte a tu <span className="highlight orange-text">PUNTO DE ACOPIO</span>{" "} 
               más cercano a colaborar.
               <ul>
-                  <li><span className="highlight orange-text">Red CERRO por autonomía y vida digna</span>{" "} 
+                  <li><span className="highlight orange-text">Red de apoyo a ollas y merenderos del CERRO por autonomía y vida digna</span>{" "} 
                       <br />
                   Haití 1606 (Salón de usuarios de la salud) 
                       <br />
@@ -100,6 +100,9 @@ const CollaborateView = () => {
                   <li><span className="highlight orange-text">Red PASO CARRASCO</span>{" "} <br />
                       Acuña de figueroa 126 (Merendero Arcoíris) 
                       <br /> Coordinar al 098 783 061 </li>
+                  <li><span className="highlight orange-text">Red CASAVALLE</span>{" "} <br />
+                  Ricardo Mackinnon entre Pablo Scremini y Carlos Fosalba. Al lado del liceo 73. (Club San Martín Bonomi)
+                  <br /> Coordinar al 097 755 762 </li>
 
               </ul>
 
