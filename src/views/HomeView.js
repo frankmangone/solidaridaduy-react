@@ -81,7 +81,7 @@ const HomeHeader = ({ scrolled }) => {
         <nav>
           <div className="menu-widescreen">
             <Link to="/about" className="header-link">
-              <p>¿QUIÉNES SOMOS?</p>
+              <p>ACERCA DE</p>
             </Link>
             <Link to="/collaborate" className="header-link">
               <p>¿CÓMO COLABORAR?</p>
@@ -106,7 +106,7 @@ const HomeHeader = ({ scrolled }) => {
       {dropdownVisible ? (
         <div className="menu-dropdown">
           <Link to="/about" className="dropdown-link">
-            <p>¿QUIÉNES SOMOS?</p>
+            <p>ACERCA DE</p>
           </Link>
           <Link to="/collaborate" className="dropdown-link">
             <p>¿CÓMO COLABORAR?</p>
@@ -413,12 +413,17 @@ const Collaborate = () => {
               alimentos están haciendo falta.
             </p>
             <p>
-              Doná a través de la <b>cuenta BROU de AUDYN</b>:
+              Doná a través de la <b>cuenta BROU de la COORDINADORA POPULAR Y SOLIDARIA</b>:
             </p>
             <p>
-              <span className="highlight">001564567-00002</span>
-              <br />
-              <b>Asunto:</b> Ollas audyn1962@gmail.com
+                    <span className="highlight">CA 001569964-00004</span>
+                    <br />
+                    Centro Social El Galpón de Corrales
+                    <br />
+                    <b>Enviar comprobante</b> comision.acopio.cps@gmail.com
+                    <br />
+                    <b>Referencia:</b> donación
+
             </p>
           </div>
         }
@@ -435,16 +440,11 @@ const Collaborate = () => {
               vecinas y vecinos para actualizar datos.
             </p>
             <p>
-              <span className="highlight">Logística:</span> Coordinar compra y
-              transporte de donaciones.
-            </p>
-            <p>
               <span className="highlight">Transporte:</span> Ofrecer vehículo
               para transporte de donaciones.
             </p>
             <p>
-              <span className="highlight">Difusión:</span> Dar difusión de las
-              necesidades para fomentar flujo de donaciones.
+              <span className="highlight">Difusión y Comunicación:</span> Manejo de redes sociales para dar difusión a las necesidades y respuestas a consultas de varios tipos.
             </p>
             <p>
               <span className="highlight">Manos a la Olla:</span> Sumarte a
@@ -551,16 +551,16 @@ const Contact = () => {
           Envianos comentarios, ideas y sugerencias para seguir mejorando la
           plataforma. Si sos referente de una olla o querés generar una
           iniciativa en tu barrio, ponete en contacto para sumarte a la
-          coordinadora de redes y ollas.
+          CPS.
           <br />
           <br />
           También podés contactarnos directamente al mail{" "}
-          <span>solidaridaduy@gmail.com</span>
+          <span>uysolidaridad@gmail.com</span>
         </h4>
       </div>
       <form
         className="content-right"
-        action="mailto:solidaridaduy@gmail.com"
+        action="mailto:uysolidaridad@gmail.com"
         method="POST"
         encType="multipart/form-data"
       >
